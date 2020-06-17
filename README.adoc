@@ -1,0 +1,8 @@
+= Jakarta EE Renames
+
+Mappings and Migration Guides for the namespace change
+
+- XSDs
+- SPEC API Classes
+- Spec names
+- Property name mappings
